@@ -1,3 +1,5 @@
+<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg?raw=true"/></p>
+
 The offer of ZPM is growing daily and the shortnames and  
 acronyms of the offer are sometimes hard to understand and   
 also hard to type with my lazy fingers.
@@ -65,5 +67,6 @@ zpm install cache-fast-json
 
 ~~~
 
-[Article in DC](https://community.intersystems.com/post/zpmshow-helper-tired-fingers)
-_ _ _ [Video](https://youtu.be/T9D5CiLwu9o) 
+[Article in DC](https://community.intersystems.com/post/zpmshow-helper-tired-fingers)    
+
+[Video](https://youtu.be/T9D5CiLwu9o) 
