@@ -4,7 +4,7 @@ zpmshow ;  lazy search and (un)install helper for zpm
 	quit 
 #define rcc ^||rcc
 do() public {
-	set sql="select $listbuild(Name,Version,Repo) "
+	set sql="select $listbuild(Name,Version,Repository) "
 		_"from %ZPM_PackageManager_Developer.Utils_GetModuleList('registry')"
 		,rs=##class(%ResultSet).%New()
 		,sc=rs.Prepare(sql)
